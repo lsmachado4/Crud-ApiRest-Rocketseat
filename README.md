@@ -3,7 +3,7 @@
 # API, REST e RESTFUL
 - [x] Iniciar o projeto `yarn init -y`
 - [x] Instalar as Dependências `yarn i express nodemon `
-- [x] Executar `npm start `
+- [x] Executar `yarn start `
 
 ## API
 
